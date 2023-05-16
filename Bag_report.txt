@@ -1,0 +1,23 @@
+Header
+
+1. Description (short description of the problem).
+2. Project (name of the current project).
+3. Application component (in which a defect occurred).
+4. Version (version of the build in which the bug was found).
+5. Severity (gradation of the degree of impact on the application bug).
+6. Priority (bug fix queue).
+7. Status (displays the status of the bug in its life cycle).
+8. Author (bug report author).
+9. Purpose (who should fix the defect).
+10. Environment (Operating system, bit rate, service pack, browser, its version, etc.)
+
+Description
+
+11. Steps of reproduction (description of the path that leads to the occurrence of a defect).
+12. The actual result (the result we arrive at after completing all the steps of reproduction).
+13. Expected result (result that must meet the requirements).
+
+Addition
+
+14. Attached file (logs, screenshots, other documents that can help reproduce the problem or solve it).
+
